@@ -1,7 +1,7 @@
 
 ## About project
 
-This project will keep your files well orginised on the base of there file type in a separate folder. If the file is mp4 then a mp4 folder will automically created and mp4 file will move on that folder.
+This code will keep your files well orginised on the base of there file type in a separate folder. If the file is mp4 then a mp4 folder will automically created and mp4 file will move on that folder.
 
 
 ## How to use
